@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- *Description - Prints alphabets in lowercase
+ * Description - Prints alphabets in lowercase
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -9,9 +9,9 @@ int main(void)
 	int n = 97;
 	while (n =< 122)
 	{
-		putchar (n);
+		putchar(n);
 		n++;
 	}
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
