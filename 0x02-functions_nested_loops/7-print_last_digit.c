@@ -2,7 +2,7 @@
 /**
  * print_last_digit - prints the last digit
  *
- *@a:inputs number as an integer
+ *@n:inputs number as an integer
  *
  * Return: absolute value
  */
