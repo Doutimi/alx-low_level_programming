@@ -1,4 +1,5 @@
-#include "main.h"/**
+#include "main.h"
+/**
  * print_sign - prints the sign of a number.
  * @n: The character in ASCII
  * Return: 1 and prints + if n is greater than zero
