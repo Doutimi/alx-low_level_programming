@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts2 - reverses a string
+ * puts2 - prints even characters
  * @str: string
  * return: void
  */
