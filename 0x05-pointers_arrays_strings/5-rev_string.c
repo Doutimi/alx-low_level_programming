@@ -2,7 +2,7 @@
 
 /**
  * rev_string - reverses a string
- * @s: string 
+ * @s: string
  * return: void
  */
 
@@ -13,7 +13,7 @@ void rev_string(char *s)
 	int i;
 
 	while (s[index] != '\0')
-	counter++;
+	index++;
 	for (i = 0; i < index; i++)
 	{
 		index--;
